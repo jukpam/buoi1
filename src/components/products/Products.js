@@ -20,6 +20,11 @@ const Products = () => {
             name: "Den treo tuong",
             origin: "An Do",
         },
+        {
+            id: 4,
+            name: "Quat treo tuong",
+            origin: "Thai Lan",
+        },
     ]
     return (
         <div> 
